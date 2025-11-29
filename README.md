@@ -15,13 +15,13 @@ Este trabalho segue a disciplina **EHD209 – Engenharia Hídrica**, Universidad
 
 ## 🗂 Estrutura do Repositório
 
-PCH-Solar-Study/
-├── Dados_Hidroweb/        # CSVs de vazões diárias
-├── Planilhas/             # Excel com cálculos hidrelétricos e solares
-├── Relatório/             # Word/PDF com metodologia, resultados e gráficos
-├── Figuras/               # Gráficos gerados e esquemas
-├── README.md              # Explicação do projeto
-└── .gitignore             # Para ignorar arquivos temporários
+EHD209_PCH_Solar_2025
+- dados_tratados
+- dados_brutos
+- apresentacao
+- scripts
+- relatorios
+   README.md
 
 ---
 
