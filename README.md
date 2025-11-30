@@ -28,7 +28,7 @@ EHD209_PCH_Solar_2025
 ## ⚙️ Como Utilizar
 
 1. **Dados Hidrológicos**  
-   - Abrir os CSVs em `dados_tratados/` para análise.
+   - Abrir os CSVs em `dados_tratados/` ou `dados_brutos/` para análise.
 
 2. **Cálculos Hidroenergéticos**  
    - Abrir planilha em `planilha_geral/`.  
