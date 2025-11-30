@@ -9,7 +9,7 @@ Este projeto consiste na análise do **potencial energético de uma Pequena Cent
 - Avaliação do **potencial energético solar** para diferentes percentuais de cobertura da área alagada.
 - Integração da energia hidro + solar para obtenção do **potencial total da usina**.
 
-Este trabalho segue a disciplina **EHD209 – Engenharia Hídrica**, Universidade Federal de Itajubá (UNIFEI).
+Este trabalho segue a disciplina **EHD209 – Fontes Alternativas de Energia - Eng. Hidríca**, Universidade Federal de Itajubá (UNIFEI).
 
 ---
 
@@ -28,11 +28,10 @@ EHD209_PCH_Solar_2025
 ## ⚙️ Como Utilizar
 
 1. **Dados Hidrológicos**  
-   - Abrir os CSVs em `Dados_Hidroweb/` para análise.
-   - Colunas principais: `Data`, `Q usina m³`, `Altura`, `Permanência`.
+   - Abrir os CSVs em `dados_tratados/` para análise.
 
 2. **Cálculos Hidroenergéticos**  
-   - Abrir planilha em `Planilhas/`.  
+   - Abrir planilha em `planilha_geral/`.  
    - Testar diferentes vazões instaladas (`Q_instalada`) para encontrar a **vazão ótima**.  
    - Energia diária, anual e potência ótima calculadas automaticamente.  
 
@@ -42,7 +41,7 @@ EHD209_PCH_Solar_2025
    - Energia anual solar calculada e somada à energia da PCH.
 
 4. **Resultados e Gráficos**  
-   - Gráficos da energia anual vs vazão instalada e percentual de cobertura solar estão na pasta `Figuras/`.  
+   - Gráficos e previsões estão em `apresentacao/graficos/`.  
    - Tabelas de energia hidro, solar e total estão nas planilhas.
 
 ---
@@ -61,15 +60,16 @@ EHD209_PCH_Solar_2025
 
 ## 📚 Referências
 
-1. Dissertação: [Nome da Dissertação, 2019, UNIFEI](https://repositorio.unifei.edu.br/jspui/bitstream/123456789/2059/1/disserta%c3%a7%c3%a3o_2019151.pdf)  
+1. Dissertação: [Proposta metodológica para definição de um Indicador Socioambiental para análise de atratividade de minigeração hidráulica descentralizada , 2019, UNIFEI](https://repositorio.unifei.edu.br/jspui/bitstream/123456789/2059/1/disserta%c3%a7%c3%a3o_2019151.pdf)  
 2. Hidroweb: [http://www.snirh.gov.br/hidroweb](http://www.snirh.gov.br/hidroweb)  
-3. Atlas Brasileiro de Energia Solar – ANEEL/CRESESB: [https://www.cresesb.cepel.br/atlas/](https://www.cresesb.cepel.br/atlas/)  
+3. Atlas Brasileiro de Energia Solar – ANEEL/CRESESB: [https://www.cresesb.cepel.br/atlas/](https://www.cresesb.cepel.br/atlas/)
+4. Referências dadas em sala de aula pelo professor Ivan
 
 ---
 
 ## 👥 Equipe
 
-- Raphael  
+- Rafael  
 - Pablo  
 - João Pedro  
 
